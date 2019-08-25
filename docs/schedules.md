@@ -11,4 +11,4 @@ subtitle: Lectures, related material, and assignments
 
 ## Assignments 
 
-[1]:{{site.url}}/lectures/Lec01.pdf
+[1]:{{site.url}}/lectures/csci2100_week1.pdf
