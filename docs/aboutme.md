@@ -13,3 +13,7 @@ We will us
 - Instructor: Tae-Hyuk (Ted) Ahn
   - Office: RTH 305 (Or find me at RTH302 - Bioinformatics Lab)
   - Office Hours: Tue 10-11:30am, Wed 2-3:30pm.
+
+- Tutoring: TBD
+  - Check the tutor and schedule at [SLU CS Tutoring][https://cs.slu.edu/resources/tutoring]
+
