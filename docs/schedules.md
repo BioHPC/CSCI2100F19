@@ -5,7 +5,7 @@ subtitle: Lectures, related material, and assignments
 ---
 ## Lectures
 
- * 8/26/2019 [Lecture 1 : Course introduction, policies and prospective topics][1]
+ * 8/26/2019: Lecture 1 - Course introduction, policies and prospective topics [Week1 Slides][1]
  
 ## Other links
 
