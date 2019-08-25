@@ -8,12 +8,12 @@ subtitle: CSCI2100 Data Structures
 
 ### Catalog Description
 
-This course introduces the foundations of algorithmic techniques and analysis, as motivated by biological problems. Topics include dynamic programming, tree and graph algorithms, sequence analysis, clustering and hidden markov models. Motivations include sequence alignment, motif finding, genome assembly, gene prediction, and phylogeny.
+The design, implementation and use of data structures. Principles of abstraction, encapsulation and modularity to guide in the creation of robust, adaptable, reusable and efficient structures. Specific data types to include stacks, queues, lists, priority queues, dictionaries, trees and graphs.
 
 ### Class Meeting Time/Location
 
-**Time**: Tue, Thu 2:15 pm - 3:30 pm  
-**Where**: Ritter Hall 106
+**Time**: Mon, Tue, Wed, Fri (Lab)  9:00 am - 9:50 am  
+**Where**: Ritter Hall 115 (Linux Classroom)
 
 ### Instructor
 Tae-Hyuk (Ted) Ahn, PhD  
@@ -26,48 +26,52 @@ Program of Bioinformatics and Computational Biology
 *Office Hour*: Tue 10 am - 11:30 am, Wed 2 pm - 3:30 pm or by appointment
 
 ### Credits/Pre-requisites
-**Credits**: 3 Credits
-**Pre-requisites**: The official prerequisite is a C- or better in BCB5200 and BCB5250.
+**Credits**: 4 Credits
+**Pre-requisites**: The official prerequisite is a C- or better in CSCI 1300 and a passing grade or concurrent enrollment in MATH 1660 or equivalent.
 
 ### Topical Outline
-Bioinformatics and Computational Biology research is getting bigger and huge, that touches upon many distinct algorithmic and biological area of study. We will try to cover important algorithmic techniques to solve biological questions. Here is a tentative list of topics I would like to cover this semster, but not necessarily in order.
+This is an undergraduate follow-up course to introductory programming, where the focus is primarily on learning how to solve a problem using an object-oriented framework. However, in this course, we focus on the fact that there are often multiple ways to solve a problem, with tradeoffs in the approaches that are possible. The goal of this course is to learn the various types of data structures which are commonly used throughout computer science, as these are the building blocks of most larger projects.
 
-* Sequence, string, and tree
-* Algorithms for motif finding
-* Assembly and graph algorithms
-* Optimal sequence alignment and mapping
-* Identifying genes and clustering
-* Hidden Markov Model and applications
+* Why Data Structures?
+*	C++ Crash Course for Python programmers
+*	Introduction to analysis of algorithms, big-O
+*	Linear data structures: lists, stacks, queues, vectors, heaps
+*	Binary trees, binary search, heaps, AVL trees, Huffman trees
+*	Dictionaries and hashing
+*	Graph implementations and algorithms
+
 
 ### Student Learning Outcomes
 
 After successfully complete this course, students are expected:
-* Understand underlying fundamental concepts of computational biology.
-* Analyze biological algorithms for asymptotic computation time and memory usage.
-* Describe the fundamental algorithmic types used in biological contexts.
-* Differentiate between sequence alignment algorithms and utilize the one most appropriate for the problem at hand.
-* Utilize complex data structures to improve the efficiency of sequence analysis.
-* Understand the use of discrete mathematical structures for biological algorithms.
+* Understand underlying fundamental concepts of data structures
+*	Demonstrate the inner workings of fundamental data structures such as stacks, queues, vectors, linked lists, heaps, trees, and graphs
+*	Implement generic versions of any of these data structures, using low-level programming concepts such as pointers and dynamic memory management
+*	Select an appropriate data structure and use it to solve a given programming problem, understanding any tradeoffs involved
+*	Analyze the asymptotic time and space efficiency of data structure operations using standard notations
+
 
 ## Course Materials and Resources
 
 ### Textbook
-The primary textbook for this course is "[Bioinformatics Algorithms: An Active Learning Approach (3rd Edition)](http://bioinformaticsalgorithms.com/)" by Phillip Compeau and Pavel Pevzner. The lectures and slides will introduce the topics and cover the majority of the information you will be expected to know. Further resources, where relevant, will be provided via links on this website accompanying the slides or lecture notes. However, you should use this textbook as a resource when you feel you need more information about a particular topic or when you wish to learn the material at a different pace than we cover in the course.  There are other (non-required) textbooks that I personally recommend as references:
+This semester, we will be using a zyBooks text, combined with ZyLabs for some of the early programming assignments. Do sign up, please do the following:
 
-- [An Introduction to Bioinformatics Algorithms](https://mitpress.mit.edu/books/introduction-bioinformatics-algorithms) (Neil C. Jones and Pavel A. Pevzner 2004)
-- [Algorithms on Strings, Trees, and Sequences: Computer Science and Computational Biology](https://www.cambridge.org/core/books/algorithms-on-strings-trees-and-sequences/F0B095049C7E6EF5356F0A26686C20D3) (Dan Gusfield 1997)
-- [Genome Scale Algorithm Design](http://www.cs.helsinki.fi/group/gsa/book/) (Mäkinen, Belazzougui, Cunial, Tomescu 2015)
-- [Biological Sequence Analysis](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713) (Durbin, Eddy, Krogh, Mitchinson 1998)
+1. Sign in or create an account at learn.zybooks.com
+2. Enter zyBook code: SLUCSCI2100AhnFall2019
+3. Subscribe
+Please note that you can download a pdf of the book, and I STRONGLY recommend that you do so! Data structures questions are quite fundamental in CS, and are a huge part of most technical interviews for jobs, so it is likely you will want this reference later in yoru career.
 
-If, you're from a discipline where you've not had a formal algorithms course, I strongly recommend you to get
+Until last year, I used [Data Structures and Algorithms in C++ (Second Edition)](https://www.wiley.com/en-us/Data+Structures+and+Algorithms+in+C%2B%2B%2C+2nd+Edition-p-9780470383278)
+(Michael T. Goodrich, Roberto Tamassia and David M. Mount,
+John Wiley & Sons, 2011,
+ISBN-13 978-0-470-38327-8). If you like to have a traditional textbook for Data Structures, please get it.
 
-- [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms-third-edition) (Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein 2009 3rd Edition) to be a nice introduction to the algorithms.
 
 ### Course website
-[https://biohpc.github.io/BCB5300/](https://biohpc.github.io/BCB5300/) will be used to announce schedules, slides, assignments, and news.
+[https://biohpc.github.io/CSCI2100F19/](https://biohpc.github.io/CSCI2100F19/) will be used to announce schedules, slides, assignments, and news.
 
 ### Git
-[GitHub Classroom](https://classroom.github.com/classrooms) will be used to submit some assignments. For further documentation of the use of this system, please check the course webpage.
+[GitHub Classroom](https://classroom.github.com/classrooms) could be used to submit some assignments. The instructor will provide further info if we use the GitHub Classroom.
 
 ### Blackboard:
 Blackboard could be used to post grades. 
@@ -86,36 +90,51 @@ You are unlikely to need cell phones during the course of lecture. Please ensure
 
 ### Graded Work
 
-- **Exam** (60%)
-  - Midterm (30%): Tentative schedule: Thursday, Oct. 17th, 2019 at 2:15 pm (classroom)
-  - Final Exam (30%): Tentative schedule: Thursday, Dec. 5th, 2019 at 2:15 pm (classroom)
+- **Exam** (40%)
+  - Midterm 1(10%): Tentative schedule: Friday, Oct. 4th, 2019 at 9:00-9:50 am (classroom)
+  - Midterm 2 (10%): Tentative schedule: Friday, Nov. 8st, 2019 at 9:00-9:50 am (classroom)
+  - Final Exam (20%): Tentative schedule: Thursday, Dec. 16th, 2019 at 8:00-9:50 am (university schedule, classroom)
   
-- **Homework** (40%)
-There will be homework due regularly throughout the semester. Some will be written problem sets, due on paper at the start of class. Some will be programming homework through automated coding challenges on the [Rosalind Bioinformatics Textbook Track](http://rosalind.info/problems/list-view/?location=bioinformatics-textbook-track). 
+- **Homework (Programming Assignments and Written Homework)** (40%)
+We expect about 10 assignments through the course of the semester. 
+Some will be due via zyBooks submission (usually due by 11:59pm in these cases), while others may be done on paper and due at the start of class. I can also use either Email or GitHub Classroom for few assignments. I will provide detailed info in the course. Please read the academic integrity section of this document carefully, since I expect students to work on their own material and hold to high standards of behavior on all assignments.
 
-For all homeworks, you are allowed to required to submit individual solutions. However, I encourage all of you to work with another student, as the best way to learn this material is to discuss and problem solve in a small group. Verbatim copying (from another student or from the internet) is forbidden, so please be sure to write up your solutions on your own. (A good rule of thumb is to take notes when working in a group, but then write them up later solo without the notes, and just reference the notes if you forget any details.)
+On certain assignments, you will be required to work individually; on others you will be allowed to work in pairs. Early in the course you will have approximately one week for each assignment; later in the course you will often have two weeks.
+
+Students will also be able to **drop their lowest programming or homework assignment score at the end of the semester**.
+
+- **Lab Assignments** (10%)
+Most Friday will be devoted to a hands-on problem. Although we hope to have students complete it in class, we will allow each to be submitted anytime by 11:59pm on the following Monday. Each lab will also have a pre-lab associated with it which will be due before class begins on the day of the lab.
+
+These problems will be graded automatically through ZyLabs. Each will have a simple pre-lab, which is worth 1 point. The remaining points are awarded for a successful completion of the lab work, based on how many test cases your program passes. Note that completion of the prelab and an honest attempt at the lab will give at least some partial credit!
+
+At the end of the semester, we will **ignore your lowest of the lab grades, with the remaining scores contributing equally to this portion of the grade**.
+
+- **zyBooks Reading** (10%)
+This semester, the course text will be an online text through zyBooks. You will be required to do reading BEFORE class regularly; in addition, the book contains some simple exercises to reinforce the concepts. Your solutions will not be graded for correctness, but the zyBooks framework records participation credit for attempting - if you get the solution correct, you move on, and otherwise it requires a certain number of attempts on each question before showing you the correct solution.
+
+I will only score participation, but it is my hope that you will choose to engage with both the read and the reinforcement questions, as I think they are very helpful! At the least, I can guarantee understanding them will improve your exam and homework scores, since I plan to build on them as much as possible. I will also assume students have completed the reading, so that my lecture will continue from there; students who have not completed the reading are likely to be quite lost in class.
 
 ### Percentages
 Letter grades will be based on each students overall percentage of awarded points according to the following formula.
 
-Student percentage above 90% will result in a grade of A or better.  
-Student percentage above 87% will result in a grade of A- or better.  
-Student percentage above 83% will result in a grade of B+ or better.  
-Student percentage above 80% will result in a grade of B or better.  
-Student percentage above 77% will result in a grade of B- or better.  
-Student percentage above 73% will result in a grade of C+ or better.  
-Student percentage above 70% will result in a grade of C or better.  
-Student percentage above 67% will result in a grade of C- or better.  
+Student percentage above 93% will result in a grade of A or better.  
+Student percentage above 90% will result in a grade of A- or better.  
+Student percentage above 87% will result in a grade of B+ or better.  
+Student percentage above 83% will result in a grade of B or better.  
+Student percentage above 80% will result in a grade of B- or better.  
+Student percentage above 77% will result in a grade of C+ or better.  
+Student percentage above 73% will result in a grade of C or better.  
+Student percentage above 70% will result in a grade of C- or better.  
 Student percentage above 60% will result in a grade of D or better.  
 Student percentage below 60% will result in a grade of F.  
-Any modification to this scale at the end of the year will be in favor of the students. That is we may later decide to award an A to a student who is slightly below the cutoff, but we certainly will not deny an A from someone who is above the cutoff.
 
-No matter what curve I impose, I maintain that the minimum passing grade for this class is a 50% - so if your average is lower than that, you will fail this class.
+Any curving of this scale at the end of the year will be in favor of the students. In other words, I reserve the right to decide to award an A to a student who is slightly below the above cutoff, but I will never deny an A to someone who is above the cutoff.
 
 ### Extra Credit
-In general, extra credit will not be assigned in this class. The homework assignments provided will be challenging enough for everyone, so I would like for students to focus on the assignments provided.
+The programming and homework assignments provided will be challenging enough for most students, so please focus as much as possible on the assignments provided.
 
-Upon occasion (and solely at the instructor's discretion), some small extra credit activities may be included, either by announcement in class or as part of an assignment. Please keep in mind that the extra credit is unlikely to significantly affect your grade; if you are concerned about your final grade, it is much better to focus your energy on the regular assignment. Extra credit is solely designed to provide an opportunity to students who wish to explore the topics further.
+Upon occasion (and solely at the instructor's discretion), there may be small extra credit activities, either by announcement in class or as part of an assignment. Please keep in mind that the extra credit is unlikely to significantly affect your grade; if you are concerned about your final grade, it is much better to focus your energy on the regular assignment. Extra credit is solely designed to provide an opportunity to students who wish to explore the topics further.
 
 ### Late Homework
 Late homework will suffer a penalty of 10% for every hour they are late. For example, homework which is submitted one hour late is worth at most 90% of the total credit.
