@@ -15,5 +15,5 @@ We will us
   - Office Hours: Tue 10-11:30am, Wed 2-3:30pm.
 
 - Tutoring: TBD
-  - Check the tutor and schedule at [SLU CS Tutoring][https://cs.slu.edu/resources/tutoring]
+  - Check the tutor and schedule at [SLU CS Tutoring](https://cs.slu.edu/resources/tutoring)
 
