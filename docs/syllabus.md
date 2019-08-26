@@ -144,6 +144,8 @@ In unusual circumstances, such as extreme illness or injury (documented by a doc
 ### Regrade Requests
 I am happy to regrade any assignmentss or exam problems which you think were unfair or incorrect. Please bring me the original assignment, plus a written explanation of your question or complaint, within two weeks of the time the paper in question is graded and returned to you.
 
+## Policies and Resources
+
 ### Academic Integrity
 In the context of this course, I encourage students to discuss general course material, which includes studying for exams, sharing notes if a student must miss class, and working on any practice problems which are assigned. You are also allowed to turn in homework assignments in pairs. I also encourage you to discuss problems with other students, but please be careful to write up all solutions separately and do not copy any material from another student. As a good rule of thumb, make sure to write your solutions without using any notes or papers written while talking to anyone other than your partner. Remember, you will be on your own in the exam, so it is in your own best interest to make sure that you really understand the material and can solve each problem on your own!
 
