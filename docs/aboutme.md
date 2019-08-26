@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About the course
-subtitle: CSCI2100 Data Structures
+subtitle: CSCI2100 Data Structures (Fall 2019)
 ---
 
 This is the course website for CSCI-2100 (Fall 2019) at Saint Louis University.
