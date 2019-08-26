@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Schedules
-subtitle: Lectures, related material, and assignments
+subtitle: Lectures, related material, labs, and assignments
 ---
 ## Lectures
 
