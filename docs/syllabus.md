@@ -71,7 +71,7 @@ ISBN-13 978-0-470-38327-8). If you like to have a traditional textbook for Data 
 [https://biohpc.github.io/CSCI2100F19/](https://biohpc.github.io/CSCI2100F19/) will be used to announce schedules, slides, assignments, and news.
 
 ### Git
-[GitHub Classroom](https://classroom.github.com/classrooms) could be used to submit some assignments. The instructor will provide further info if we use the GitHub Classroom.
+Our SLU CS GitLab or [GitHub Classroom](https://classroom.github.com/classrooms) could be used to submit some assignments. The instructor will provide further info if we use the GitHub Classroom.
 
 ### Blackboard:
 Blackboard could be used to post grades. 
