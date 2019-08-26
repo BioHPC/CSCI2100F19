@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-subtitle: CSCI2100 Data Structures (Fall 2019)
+subtitle: CSCI 2100/5002 Data Structures (Fall 2019)
 ---
 
 ## Overview
