@@ -6,8 +6,8 @@ subtitle: Lectures, related material, labs, and assignments
 ## Lectures
 
  * 8/26/2019 (Mon): Lecture 1 - Course introduction, policies and prospective topics [Week1 Slides][1]
- * 8/27/2019 (Tue): Lecture 1 - C++ First Glance  [Week1 Slides][1]
- * 8/28/2019 (Wed): Lecture 1 - Data types, operators, controls, input and output [Week1 Slides][1]
+ * 8/27/2019 (Tue): Lecture 2 - C++ First Glance  [Week1 Slides][1]
+ * 8/28/2019 (Wed): Lecture 3 - Data types, operators, controls, input and output [Week1 Slides][1]
  * 9/2/2019 (Mon): **No Class** (Labor Day)
  
 ## Other links
