@@ -23,7 +23,7 @@ Program of Bioinformatics and Computational Biology
 *Email*: ted.ahn@slu.edu  
 *Office*: 305 Ritter Hall (Lab: 302 Ritter Hall)  
 *Phone*: (314) 977-3633  
-*Office Hour*: Tue 10 am - 11:30 am, Wed 2 pm - 3:30 pm or by appointment
+*Office Hour*: Mon 10 am - 11:30 am, Tue 12:30 pm - 2 pm or by appointment
 
 ### Credits/Pre-requisites
 **Credits**: 4 Credits
