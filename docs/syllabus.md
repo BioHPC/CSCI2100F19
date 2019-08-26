@@ -156,5 +156,25 @@ A statement of minimum standards for student academic integrity at Saint Louis U
 ### Attendance
 Our course follows university level [attendance policy](https://catalog.slu.edu/academic-policies/academic-policies-procedures/attendance/).
 
-### Students Success Center and Disabily Services
+### Title IX 
+Saint Louis University and its faculty are committed to supporting our students and seeking an environment that is free of bias, discrimination and harassment. If you have encountered any form of sexual misconduct (e.g. sexual assault, sexual harassment, stalking, domestic or dating violence), we encourage you to report this to the University. If you speak with a faculty member about an incident of misconduct, that faculty member must notify SLU's Title IX coordinator, Anna R. Kratky (DuBourg Hall, room 36; anna.kratky@slu.edu; 314-977-3886) and share the basic facts of your experience with her. The Title IX coordinator will then be available to assist you in understanding all of your options and in connecting you with all possible resources on and off campus.
+
+If you wish to speak with a confidential source, you may contact the counselors at the University Counseling Center at 314-977-TALK. To view SLU’s sexual misconduct policy and for resources, please visit the [Office of the General Counsel](https://www.slu.edu/general-counsel/index.php).
+
 Please see the [College of Arts and Sciences Syllabi statements](https://www.slu.edu/arts-and-sciences/faculty-resources/syllabi-statements.php). I am more than happy to accomodate any requested accommodations; come see me or get in touch via email if you have any questions.
+
+### Disability Services
+Students with a documented disability who wish to request academic accommodations must contact Disability Services to discuss accommodation requests and eligibility requirements. Once successfully registered, the student also must notify the course instructor that they wish to access accommodations in the course.
+
+Please contact Disability Services, located within the Student Success Center, at Disability_services@slu.edu or 314-977-3484 to schedule an appointment. Confidentiality will be observed in all inquiries. Once approved, information about the student’s eligibility for academic accommodations will be shared with course instructors via email from Disability Services and viewed within Banner via the instructor’s course roster.
+
+Note: Students who do not have a documented disability but who think they may have one are encouraged to contact Disability Services.
+
+### Student Success Center
+In recognition that people learn in a variety of ways and that learning is influenced by multiple factors (e.g., prior experience, study skills, learning disability), resources to support student success are available on campus. The Student Success Center assists students with academic-related services and is located in the Busch Student Center (Suite, 331). Students can visit the [Student Success Center](https://www.slu.edu/life-at-slu/student-success-center/index.php) to learn more about tutoring services, university writing services, disability services, and academic coaching.
+
+### University Writing Services
+Students are encouraged to take advantage of University Writing Services in the Student Success Center; getting feedback benefits writers at all skill levels. Trained writing consultants can help with writing projects, multimedia projects, and oral presentations. University Writing Services offers one-on-one consultations that address everything from brainstorming and developing ideas to crafting strong sentences and documenting sources. For more information, visit the Student Success Center  or call the [Student Success Center](https://www.slu.edu/life-at-slu/student-success-center/index.php) at 314-977-3484.
+
+### Basic Needs Security
+Students in personal or academic distress and/or who may be specifically experiencing challenges such as securing food or difficulty navigating campus resources, and who believe this may affect their performance in the course, are encouraged to contact the Dean of Students Office (deanofstudents@slu.edu or 314-977-9378) for support. Furthermore, please notify the instructor if you are comfortable in doing so, as this will enable them to assist you with finding the resources you may need.
