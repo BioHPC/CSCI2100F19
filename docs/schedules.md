@@ -20,7 +20,7 @@ subtitle: Lectures, related material, and assignments
 
 ## Labs
 
- * 8/30/2019 (Fri) (Due: Mon, 9/2/2019 11:59pm): Lab 1 - [Compiling and running a C++ program][L1]
+ * 8/30/2019 (Fri) (Due: Tue, 9/3/2019 11:59pm): Lab 1 - [Compiling and running a C++ program][L1]
 
 [0]:{{site.url}}/lectures/python2cpp.pdf
 [1]:{{site.url}}/lectures/csci2100_week1.pdf
