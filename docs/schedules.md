@@ -12,7 +12,8 @@ subtitle: Lectures, related material, labs, and assignments
  
 ## Other links
 
- * 8/26/2019: [python2cpp.pdf][0]
+ * 8/26/2019: [python2cpp.pdf][O1]
+ * 8/27/2019: [zyBooks Getting Started][O2]
 
 ## Assignments 
 
@@ -22,7 +23,9 @@ subtitle: Lectures, related material, labs, and assignments
 
  * 8/30/2019 (Fri) (Due: Tue, 9/3/2019 11:59pm): Lab 1 - [Compiling and running a C++ program][L1]
 
-[0]:{{site.url}}/lectures/python2cpp.pdf
 [1]:{{site.url}}/lectures/csci2100_week1.pdf
 
 [L1]:{{site.url}}/labs/lab1.html
+
+[O1]:{{site.url}}/lectures/python2cpp.pdf
+[O2]:https://zybooks.zendesk.com/hc/en-us/articles/360008562913-Students-Getting-started
