@@ -14,6 +14,9 @@ subtitle: Lectures, related material, labs, and assignments
 
  * 8/26/2019: [python2cpp.pdf][O1]
  * 8/27/2019: [zyBooks Getting Started][O2]
+ * 8/28/2019: [Linux Tutorial][O3]
+ * 8/28/2019: [SSH and SCP: Howto, tips & tricks][O4]
+ * 8/28/2019: [Getting Started with VIM][O5]
 
 ## Assignments 
 
@@ -29,3 +32,6 @@ subtitle: Lectures, related material, labs, and assignments
 
 [O1]:{{site.url}}/lectures/python2cpp.pdf
 [O2]:https://zybooks.zendesk.com/hc/en-us/articles/360008562913-Students-Getting-started
+[O3]:https://ryanstutorials.net/linuxtutorial/
+[O4]:https://linuxacademy.com/blog/linux/ssh-and-scp-howto-tips-tricks/
+[O5]:https://scotch.io/tutorials/getting-started-with-vim-an-interactive-guide
