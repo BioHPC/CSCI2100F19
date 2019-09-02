@@ -38,6 +38,10 @@ subtitle: Lectures, related material, labs, and assignments
 
 [1]:{{site.url}}/lectures/csci2100_week1.pdf
 [2]:{{site.url}}/lectures/csci2100_week2_1.pdf
+[3]:{{site.url}}/lectures/csci2100_week2_2.pdf
+[4]:{{site.url}}/lectures/csci2100_week3_1.pdf
+[5]:{{site.url}}/lectures/csci2100_week3_2.pdf
+[6]:{{site.url}}/lectures/csci2100_week3_3.pdf
 
 [L1]:{{site.url}}/labs/lab1.html
 [L2]:{{site.url}}/labs/lab2.html
