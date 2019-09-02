@@ -29,6 +29,7 @@ subtitle: Lectures, related material, labs, and assignments
 ## Assignments 
 
  * Reading assignment 1 (Due: Fri, 8/30/2019 9am): The first reading assignment is posted through the ZyBooks; please register for an account as soon as possible, and (once you have signed up for the class) it should listed as assigned. 
+ * Homework 1 (Due: Fri, 9/6/2019 11:59pm): Check zyBooks Homework 1 and submit in zyBooks.
 
 ## Labs
 
