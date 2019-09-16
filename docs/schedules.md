@@ -17,6 +17,9 @@ subtitle: Lectures, related material, labs, and assignments
  * 9/10/2019 (Tue): Lecture 7 - Classes cont'd [Week3_2 Slides][5]
  * 9/11/2019 (Wed): Lecture 8 - Final Into to C++ [Week3_3 Slides][6]
  * 9/13/2019 (Fri) Lab3 - Speed (Check zyBooks) (Due: Mon, 9/16/2019 11:59pm)
+ * 9/16/2019 (Mon): Lecture 9 - Compilation [Week4_1 Slides][7] 
+   Read [Compiling and Linking in C++]:(http://www.cplusplus.com/articles/2v07M4Gy/)
+
  
 ## Other links
 
@@ -44,6 +47,7 @@ subtitle: Lectures, related material, labs, and assignments
 [4]:{{site.url}}/lectures/csci2100_week3_1.pdf
 [5]:{{site.url}}/lectures/csci2100_week3_2.pdf
 [6]:{{site.url}}/lectures/csci2100_week3_3.pdf
+[7]:{{site.url}}/lectures/csci2100_week4_1.pdf
 
 [L1]:{{site.url}}/labs/lab1.html
 
