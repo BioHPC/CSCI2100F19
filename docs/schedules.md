@@ -18,7 +18,7 @@ subtitle: Lectures, related material, labs, and assignments
  * 9/11/2019 (Wed): Lecture 8 - Final Into to C++ [Week3_3 Slides][6]
  * 9/13/2019 (Fri) Lab3 - Speed (Check zyBooks) (Due: Mon, 9/16/2019 11:59pm)
  * 9/16/2019 (Mon): Lecture 9 - Compilation [Week4_1 Slides][7] 
-   Read [Compiling and Linking in C++:](http://www.cplusplus.com/articles/2v07M4Gy/)
+   (Read [Compiling and Linking in C++:](http://www.cplusplus.com/articles/2v07M4Gy/))
 
  
 ## Other links
