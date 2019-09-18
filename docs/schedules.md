@@ -34,9 +34,10 @@ subtitle: Lectures, related material, labs, and assignments
 ## Assignments 
 
  * Reading assignment 1 (Due: Fri, 8/30/2019 9am): The first reading assignment is posted through the ZyBooks; please register for an account as soon as possible, and (once you have signed up for the class) it should listed as assigned. 
- * Homework 1 (Due: Fri, 9/6/2019 11:59pm): Check zyBooks Homework 1 and submit your solution in zyBooks.
+ * Homework 1 (Due: Fri, 9/6/2019 11:59pm): Check zyBooks Homework1 and submit your solution through zyBooks.
  * Homework 2 (Due: Wed, 9/18/2019 9:00am): [Pointer, Reference and Objects in C++][H2]
-
+ * Homework 3 (Due: Wed, 9/25/2019 11:59[m): Check zyBooks Homework3 and submit your solution through zyBooks.
+ 
 ## Labs
 
  * 8/30/2019 (Fri) Lab1 - [Compiling and running a C++ program][L1] (Due: Tue, 9/3/2019 11:59pm)
