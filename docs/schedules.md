@@ -20,6 +20,7 @@ subtitle: Lectures, related material, labs, and assignments
  * 9/16/2019 (Mon): Lecture 9 - Compilation [Week4_1 Slides][7] 
    (Read [Compiling and Linking in C++:](http://www.cplusplus.com/articles/2v07M4Gy/))
  * 9/17/2019 (Tue): Lecture 10 - Singly Linked List [Week4_2 Slides][8]
+ * 9/18/2019 (Wed): Lecture 11 - Student Questions, Singly Linked List [Week4_3 Slides][9]
 
  
 ## Other links
@@ -50,6 +51,7 @@ subtitle: Lectures, related material, labs, and assignments
 [6]:{{site.url}}/lectures/csci2100_week3_3.pdf
 [7]:{{site.url}}/lectures/csci2100_week4_1.pdf
 [8]:{{site.url}}/lectures/csci2100_week4_2.pdf
+[9]:{{site.url}}/lectures/csci2100_week4_3.pdf
 
 [L1]:{{site.url}}/labs/lab1.html
 
