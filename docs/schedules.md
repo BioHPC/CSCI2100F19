@@ -23,6 +23,7 @@ subtitle: Lectures, related material, labs, and assignments
  * 9/18/2019 (Wed): Lecture 11 - Student Questions, Singly Linked List [Week4_3 Slides][9]
  * 9/20/2019 (Fri) Lab4 - Tanning (Check zyBooks) (Due: Mon, 9/23/2019 11:59pm)
  * 9/23/2019 (Mon): Lecture 12 - Singly Linked List and C++  [Week5_1 Slides][10] 
+ * 9/24/2019 (Tue): Lecture 13 - Singly Linked List and C++  [Week5_2 Slides][11] 
 
  
 ## Other links
@@ -38,13 +39,16 @@ subtitle: Lectures, related material, labs, and assignments
  * Reading assignment 1 (Due: Fri, 8/30/2019 9am): The first reading assignment is posted through the ZyBooks; please register for an account as soon as possible, and (once you have signed up for the class) it should listed as assigned. 
  * Homework 1 (Due: Fri, 9/6/2019 11:59pm): Check zyBooks Homework1 and submit your solution through zyBooks.
  * Homework 2 (Due: Wed, 9/18/2019 9:00am): [Pointer, Reference and Objects in C++][H2]
+ * Reading assignment 2 (Due: Fri, 9/20/2019 11:59pm): zyBooks
  * Homework 3 (Due: Wed, 9/25/2019 11:59pm): Check zyBooks Homework3 and submit your solution through zyBooks.
+ * Reading assignment 3 (Due: Fri, 9/27/2019 11:59pm): zyBooks
  
 ## Labs
 
  * 8/30/2019 (Fri) Lab1 - [Compiling and running a C++ program][L1] (Due: Tue, 9/3/2019 11:59pm)
  * 9/6/2019 (Fri) Lab2 - Copier Reduction (Check zyBooks) (Due: Mon, 9/9/2019 11:59pm)
  * 9/13/2019 (Fri) Lab3 - Speed (Check zyBooks) (Due: Mon, 9/16/2019 11:59pm)
+ * 9/20/2019 (Fri) Lab4 - Salon (Check zyBooks) (Due: Mon, 9/23/2019 11:59pm)
 
 [1]:{{site.url}}/lectures/csci2100_week1.pdf
 [2]:{{site.url}}/lectures/csci2100_week2_1.pdf
@@ -56,6 +60,7 @@ subtitle: Lectures, related material, labs, and assignments
 [8]:{{site.url}}/lectures/csci2100_week4_2.pdf
 [9]:{{site.url}}/lectures/csci2100_week4_3.pdf
 [10]:{{site.url}}/lectures/csci2100_week5_1.pdf
+[11]:{{site.url}}/lectures/csci2100_week5_2.pdf
 
 [L1]:{{site.url}}/labs/lab1.html
 
