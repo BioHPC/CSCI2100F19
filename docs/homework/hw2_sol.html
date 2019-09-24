@@ -1,0 +1,328 @@
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+  <HEAD>
+    <TITLE>Homework Solution
+02
+
+-
+CSCI 2100, Fall 2017
+</TITLE></HEAD>
+
+  <BODY>
+
+
+
+
+<!-- begin table of contents -->
+<!--  end table of contents  -->
+
+<HR>
+
+
+<center>
+<h2>Homework Solution
+02
+
+</h2>
+<h3>Object-Oriented Programming</h3>
+</center>
+
+<a name="submit"><h3>Problems to be Submitted (20 points)</h3></a>
+
+<ol type = "A"> 
+
+<LI> (6 points)
+
+    <table cellpadding=20>
+      <tr>
+    <td align=center><tt><nobr>original</nobr></tt></td>
+    <td align=center>after<br><tt><nobr>*f = 'W';</nobr></tt></td>
+    <td align=center>after<br><tt><nobr>c = g;</nobr></tt></td>
+    <td align=center>after<br><tt><nobr>e = b;</nobr></tt></td>
+      </tr>
+      <tr>
+    <td><img src="figs/diagram1-solnA.gif"></td>
+    <td><img src="figs/diagram1-solnB.gif"></td>
+    <td><img src="figs/diagram1-solnC.gif"></td>
+    <td><img src="figs/diagram1-solnD.gif"></td>
+      </tr>
+    </table>
+
+    
+</LI>
+
+<li> (6 points)
+
+    <!--
+    <P>
+    Before reading the remainder of this solution,
+    please review the definition of <em>formal arguments</em>
+    vs. <em>actual arguments</em> given in our Transition Guide and
+    the three styles of parameter passing discussed in Ch.&nbsp;P.6 of
+    the text: passing by
+    value, passing by reference, and passing by constant reference.
+    </P>
+    -->
+    
+    <p>
+    The three functions <tt>f(&nbsp;)</tt>, <tt>g(&nbsp;)</tt>,
+    <tt>h(&nbsp;)</tt> demonstrate those three respective styles of
+    parameter passing.  
+    </P>
+
+    <P>
+    As the parameter is passed by value, <tt>f()</tt> has
+    the effect of incrementing the <em>formal</em> 
+    parameter <tt>x</tt> before it is outputted.  However, the
+    <em>actual</em> parameter of the caller will not be effected.
+    The effect can be observed if we execute the following code
+    <pre>
+    int j(5);
+    f(j);        // outputs 6
+    cout &lt;&lt; j;   // outputs 5 (unchanged by f)
+    </pre>
+
+    </P>
+
+    <P>
+    As the parameter is passed by reference, <tt>g()</tt> has
+    the effect of incrementing the <em>formal</em> parameter, and thus
+    indirectly the <em>actual</em> parameter as well. We observe this
+    effect as
+    <pre>
+    int k(5);
+    g(k);        // outputs 6
+    cout &lt;&lt; k;   // outputs 6 (changed by g)
+    </pre>
+    </P>
+
+    <P>
+    Function <tt>h()</tt> is illegal, and would be rejected by the
+    compiler.  It is similar to <tt>g()</tt>, however since the
+    parameter is passed by <em>constant</em> reference, the body of
+    the function is not allowed to alter the parameter.
+    </P>
+</LI>
+
+
+<LI> (8 points)
+
+    <p>
+    To best understand the initial block of code, we walk through the
+    commands one at a time, drawing a sample diagram for each stage.
+    
+    <table cellpadding=20>
+      <tr>
+    <td align=center><tt><nobr>Thing a;</nobr></tt></td>
+    <td align=center><tt><nobr>Thing b("Snow");</nobr></tt></td>
+    <td align=center><tt><nobr>Thing c(b);</nobr></tt></td>
+    <td align=center><tt><nobr>Thing *d = &amp;c;</nobr></tt></td>
+    <td align=center><tt><nobr>Thing *e = new Thing();</nobr></tt></td>
+    <td align=center><tt><nobr>Thing *f = new Thing(b);</nobr></tt></td>
+      </tr>
+      <tr>
+    <td><img src="figs/step1.gif"></td>
+    <td><img src="figs/step2.gif"></td>
+    <td><img src="figs/step3.gif"></td>
+    <td><img src="figs/step4.gif"></td>
+    <td><img src="figs/step5.gif"></td>
+    <td><img src="figs/step6.gif"></td>
+      </tr>
+    </table>
+
+    </p>
+
+    <p>
+    Note well that when the copy constructor was used for <tt>c</tt>
+    as well as for <tt>f</tt>, a new instance was created each time;
+    <tt>b</tt> was simply used as the model for the state, at that
+    time.
+    </p>
+
+    <OL type=i>
+      <LI>
+      <p>
+      Based upon the final configuration shown above, the output
+      of the six statements is as follows.
+      <blockquote>
+      <TT>
+      Cat In the Hat<br>Snow<br>Snow<br>Snow<br>Cat In the Hat<br>Snow
+      </TT>
+      </blockquote>
+
+      </LI>
+      <LI>
+      <p>
+      The command
+      <blockquote>
+      <tt><nobr>b.setBook("Hop on Pop");</nobr></tt>
+      </blockquote>
+      changes the state of that object.   Note well, however, that
+      this has no effect on <tt>c</tt> or <tt>f</tt> which were
+      truly independent objects from <tt>b</tt>.  The resulting
+          picture is portrayed as
+      <br>
+          <img src="figs/ii.gif">
+      <br>
+      and the displayed output is
+      <blockquote>
+      <TT>
+      Cat In the Hat<br>Hop on Pop<br>Snow<br>Snow<br>Cat In the Hat<br>Snow
+      </TT>
+      </blockquote>
+      </p>
+      </LI>
+      <LI>
+      <p>
+      The command
+      <blockquote>
+      <tt><nobr>c.setBook("Hop on Pop");</nobr></tt>
+      </blockquote>
+      changes the state of that object.   Note well that
+      <tt>d</tt> is truly a pointer to the same underlying object,
+      and therefore this implicitly changes <tt>*d</tt>.
+      The resulting
+          picture is portrayed as
+      <br>
+          <img src="figs/iii.gif">
+      <br>
+      and the displayed output is
+      <blockquote>
+      <TT>
+      Cat In the Hat<br>Snow<br>Hop on Pop<br>Hop on Pop<br>Cat In the Hat<br>Snow
+      </TT>
+      </blockquote>
+      </p>
+      </LI>
+      <LI>
+      <p>
+      The command
+      <blockquote>
+      <tt><nobr>a = b;</nobr></tt>
+      </blockquote>
+      assigns the state of object <tt>a</tt> to be equal to the
+      current state of <tt>b</tt>.
+      The resulting
+          picture is portrayed as
+      <br>
+          <img src="figs/v.gif">
+      <br>
+      and the displayed output is
+      <blockquote>
+      <TT>
+      Snow<br>Snow<br>Snow<br>Snow<br>Cat In the Hat<br>Snow
+      </TT>
+      </blockquote>
+      </p>
+      </LI>
+      <LI>
+      <p>
+      The command
+      <blockquote>
+      <tt><nobr>b = a;</nobr></tt>
+      </blockquote>
+      assigns the state of object <tt>b</tt> to be equal to the
+      current state of <tt>a</tt>.
+      The resulting
+          picture is portrayed as
+      <br>
+          <img src="figs/iv.gif">
+      <br>
+      and the displayed output is
+      <blockquote>
+      <TT>
+      Cat In the Hat<br>Cat In the Hat<br>Snow<br>Snow<br>Cat In the Hat<br>Snow
+      </TT>
+      </blockquote>
+      </p>
+      </LI>
+      <LI>
+      <p>
+      The commands
+      <blockquote>
+      <tt><nobr>b=a;</nobr><br><nobr>a.setBook("Hop on Pop");</nobr></tt>
+      </blockquote>
+      first assigns the state of <tt>b</tt> equal to the current
+      state of <tt>a</tt>.  The second command changes the state
+      of <tt>a</tt> (yet has no effect on <tt>b</tt>).
+      The resulting picture is portrayed as
+      <br>
+          <img src="figs/vi.gif">
+      <br>
+      and the displayed output is
+      <blockquote>
+      <TT>
+      Hop on Pop<br>Cat in the Hat<br>Snow<br>Snow<br>Cat In the Hat<br>Snow
+      </TT>
+      </blockquote>
+      </p>
+      </LI>
+      <LI>
+      <p>
+      The first command
+      <blockquote>
+      <tt><nobr>e=d;</nobr></tt>
+      </blockquote>
+      assigns the value of pointer <tt>e</tt> to be equal to the
+      current value of pointer <tt>d</tt> (i.e., 239).   After
+      this, the subsequent command
+      <blockquote>
+      <tt><nobr>d-&gt;setBook("Hop on Pop");</nobr></tt>
+      </blockquote>
+      is changing the state of the object at
+      address&nbsp;239.  Therefore, this has the apparent effect
+      of changing <tt>c</tt>, <tt>*d</tt> and <tt>*e</tt>, all of
+      which refer to the same object.
+      The resulting
+          picture is portrayed as
+      <br>
+          <img src="figs/vii.gif">
+      <br>
+      and the displayed output is
+      <blockquote>
+      <TT>
+      Cat In the Hat<br>Snow<br>Hop on Pop<br>Hop on Pop<br>Hop on Pop<br>Snow
+      </TT>
+      </blockquote>
+      </p>
+      </LI>
+      <LI>
+      <p>
+      The first command
+      <blockquote>
+      <tt><nobr>*e=*d;</nobr></tt>
+      </blockquote>
+      assigns the value of the object pointed to by <tt>e</tt>
+      (i.e., that at address&nbsp;246) to be equal to the
+      object pointed to by <tt>d</tt>.   This first change is made
+      moot by the subsequent
+      <blockquote>
+      <tt><nobr>d-&gt;setBook("Hop on Pop");</nobr></tt>
+      </blockquote>
+      changes the object at address&nbsp;239.
+      The resulting
+          picture is portrayed as
+      <br>
+          <img src="figs/viii.gif">
+      <br>
+      and the displayed output is
+      <blockquote>
+      <TT>
+      Cat In the Hat<br>Snow<br>Hop on Pop<br>Hop on Pop<br>Snow<br>Snow
+      </TT>
+      </blockquote>
+      </p>
+      </LI>
+    </OL>
+</LI>
+
+      
+</OL>
+
+<hr>
+
+  </body>
+</html>
+
+
