@@ -50,6 +50,7 @@ subtitle: Lectures, related material, labs, and assignments
  * 9/6/2019 (Fri) Lab2 - Copier Reduction (Check zyBooks) (Due: Mon, 9/9/2019 11:59pm)
  * 9/13/2019 (Fri) Lab3 - Speed (Check zyBooks) (Due: Mon, 9/16/2019 11:59pm)
  * 9/20/2019 (Fri) Lab4 - Salon (Check zyBooks) (Due: Mon, 9/23/2019 11:59pm)
+ * 9/27/2019 (Fri) Lab5 - Double (Check zyBooks) (Due: Mon, 9/30/2019 11:59pm)
 
 [1]:{{site.url}}/lectures/csci2100_week1.pdf
 [2]:{{site.url}}/lectures/csci2100_week2_1.pdf
