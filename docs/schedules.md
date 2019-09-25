@@ -24,6 +24,7 @@ subtitle: Lectures, related material, labs, and assignments
  * 9/20/2019 (Fri) Lab4 - Tanning (Check zyBooks) (Due: Mon, 9/23/2019 11:59pm)
  * 9/23/2019 (Mon): Lecture 12 - Singly Linked List and C++  [Week5_1 Slides][10] 
  * 9/24/2019 (Tue): Lecture 13 - Singly Linked List and C++  [Week5_2 Slides][11] 
+ * 9/25/2019 (Wed): Lecture 14 - Complexity of Algorithm  [Week5_3 Slides][12] 
 
  
 ## Other links
@@ -61,6 +62,7 @@ subtitle: Lectures, related material, labs, and assignments
 [9]:{{site.url}}/lectures/csci2100_week4_3.pdf
 [10]:{{site.url}}/lectures/csci2100_week5_1.pdf
 [11]:{{site.url}}/lectures/csci2100_week5_2.pdf
+[12]:{{site.url}}/lectures/csci2100_week5_3.pdf
 
 [L1]:{{site.url}}/labs/lab1.html
 
