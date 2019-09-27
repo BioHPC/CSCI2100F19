@@ -93,7 +93,7 @@ You are unlikely to need cell phones during the course of lecture. Please ensure
 - **Exam** (40%)
   - Midterm 1(10%): Tentative schedule: Friday, Oct. 4th, 2019 at 9:00-9:50 am (classroom)
   - Midterm 2 (10%): Tentative schedule: Friday, Nov. 8st, 2019 at 9:00-9:50 am (classroom)
-  - Final Exam (20%): Tentative schedule: Thursday, Dec. 16th, 2019 at 8:00-9:50 am (university schedule, classroom)
+  - Final Exam (20%): Tentative schedule: Monday, Dec. 9th, 2019 at 9:00-9:50 am (classroom)
   
 - **Homework (Programming Assignments and Written Homework)** (40%)
 We expect about 10 assignments through the course of the semester. 
