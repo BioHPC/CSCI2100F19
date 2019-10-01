@@ -71,6 +71,7 @@ subtitle: Lectures, related material, labs, and assignments
 [W5_3]:{{site.url}}/lectures/csci2100_week5_3.pdf
 [W6_1]:{{site.url}}/lectures/csci2100_week6_1.pdf
 [W6_2]:{{site.url}}/lectures/csci2100_week6_2.pdf
+[W6_3]:{{site.url}}/lectures/csci2100_week6_3.pdf
 
 [L1]:{{site.url}}/labs/lab1.html
 
