@@ -28,8 +28,9 @@ subtitle: Lectures, related material, labs, and assignments
  * 9/27/2019 (Fri) Lab5 - Double (Check zyBooks) (Due: Mon, 9/30/2019 11:59pm)
  * 9/30/2019 (Mon): Lecture 15 - Stack [Week6_1 Slides][W6_1] 
  * 10/1/2019 (Tue): Lecture 16 - Queue [Week6_2 Slides][W6_2] 
- * 10/2/2019 (Wed): Lecture 17 - Stack, Queue, Reading Day [Week6_3 Slides][W6_3] 
+ * 10/2/2019 (Wed): Lecture 17 - Reading Day for Midterm 1
  * 10/4/2019 (Fri): <span style="color:red">Midterm 1</span>
+ * 10/7/2019 (Mon): Lecture 18 - Miterm 1 review, Circularly-Linked List, Doubly-Linked List [Week7_1 Slides][W7_1] 
 
  
 ## Other links
@@ -71,7 +72,7 @@ subtitle: Lectures, related material, labs, and assignments
 [W5_3]:{{site.url}}/lectures/csci2100_week5_3.pdf
 [W6_1]:{{site.url}}/lectures/csci2100_week6_1.pdf
 [W6_2]:{{site.url}}/lectures/csci2100_week6_2.pdf
-[W6_3]:{{site.url}}/lectures/csci2100_week6_3.pdf
+[W7_1]:{{site.url}}/lectures/csci2100_week7_1.pdf
 
 [L1]:{{site.url}}/labs/lab1.html
 
