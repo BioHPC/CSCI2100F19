@@ -31,6 +31,7 @@ subtitle: Lectures, related material, labs, and assignments
  * 10/2/2019 (Wed): Lecture 17 - Reading Day for Midterm 1
  * 10/4/2019 (Fri): <span style="color:red">Midterm 1</span>
  * 10/7/2019 (Mon): Lecture 18 - Miterm 1 review, Circularly-Linked List, Doubly-Linked List [Week7_1 Slides][W7_1] 
+ * 10/8/2019 (Tue): Lecture 19 - Diverse Linked-List, Doubly-Linked List [Week7_2 Slides][W7_2] 
 
  
 ## Other links
@@ -73,6 +74,7 @@ subtitle: Lectures, related material, labs, and assignments
 [W6_1]:{{site.url}}/lectures/csci2100_week6_1.pdf
 [W6_2]:{{site.url}}/lectures/csci2100_week6_2.pdf
 [W7_1]:{{site.url}}/lectures/csci2100_week7_1.pdf
+[W7_2]:{{site.url}}/lectures/csci2100_week7_2.pdf
 
 [L1]:{{site.url}}/labs/lab1.html
 
