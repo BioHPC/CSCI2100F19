@@ -8,30 +8,32 @@ subtitle: Lectures, related material, labs, and assignments
  * 8/26/2019 (Mon): Lecture 1 - Course introduction [Week1 Slides][W1]
  * 8/27/2019 (Tue): Lecture 2 - C++ First Glance  [Week1 Slides][W1]
  * 8/28/2019 (Wed): Lecture 3 - C++ Data types, operators, controls, input and output [Week1 Slides][W1]
- * 8/30/2019 (Fri) Lab1 - [Compiling and running a C++ program][L1] (Due: Tue, 9/3/2019 11:59pm)
+ * 8/30/2019 (Fri): Lab1 - [Compiling and running a C++ program][L1] (Due: Tue, 9/3/2019 11:59pm)
  * 9/2/2019 (Mon): **No Class** (Labor Day)
  * 9/3/2019 (Tue): Lecture 4 - C++ Data types, operators, controls, input and output [Week2_1 Slides][W2_1]
  * 9/4/2019 (Wed): Lecture 5 - C++ Class, inheritance [Week2_2 Slides][W2_2]
- * 9/6/2019 (Fri) Lab2 - Copier Reduction (Check zyBooks) (Due: Mon, 9/9/2019 11:59pm)
+ * 9/6/2019 (Fri): Lab2 - Copier Reduction (Check zyBooks) (Due: Mon, 9/9/2019 11:59pm)
  * 9/9/2019 (Mon): Lecture 6 - Pointer, reference [Week3_1 Slides][W3_1]
  * 9/10/2019 (Tue): Lecture 7 - Classes cont'd [Week3_2 Slides][W3_2]
  * 9/11/2019 (Wed): Lecture 8 - Final Into to C++ [Week3_3 Slides][W3_3]
- * 9/13/2019 (Fri) Lab3 - Speed (Check zyBooks) (Due: Mon, 9/16/2019 11:59pm)
+ * 9/13/2019 (Fri): Lab3 - Speed (Check zyBooks) (Due: Mon, 9/16/2019 11:59pm)
  * 9/16/2019 (Mon): Lecture 9 - Compilation [Week4_1 Slides][W4_1] 
    (Read [Compiling and Linking in C++:](http://www.cplusplus.com/articles/2v07M4Gy/))
  * 9/17/2019 (Tue): Lecture 10 - Singly Linked List [Week4_2 Slides][W4_2]
  * 9/18/2019 (Wed): Lecture 11 - Student Questions, Singly Linked List [Week4_3 Slides][W4_3]
- * 9/20/2019 (Fri) Lab4 - Tanning (Check zyBooks) (Due: Mon, 9/23/2019 11:59pm)
+ * 9/20/2019 (Fri): Lab4 - Tanning (Check zyBooks) (Due: Mon, 9/23/2019 11:59pm)
  * 9/23/2019 (Mon): Lecture 12 - Singly Linked List and C++  [Week5_1 Slides][W5_1] 
  * 9/24/2019 (Tue): Lecture 13 - Singly Linked List and C++  [Week5_2 Slides][W5_2] 
  * 9/25/2019 (Wed): Lecture 14 - Complexity of Algorithm  [Week5_3 Slides][W5_3] 
- * 9/27/2019 (Fri) Lab5 - Double (Check zyBooks) (Due: Mon, 9/30/2019 11:59pm)
+ * 9/27/2019 (Fri): Lab5 - Double (Check zyBooks) (Due: Mon, 9/30/2019 11:59pm)
  * 9/30/2019 (Mon): Lecture 15 - Stack [Week6_1 Slides][W6_1] 
  * 10/1/2019 (Tue): Lecture 16 - Queue [Week6_2 Slides][W6_2] 
  * 10/2/2019 (Wed): Lecture 17 - Reading Day for Midterm 1
  * 10/4/2019 (Fri): <span style="color:red">Midterm 1</span>
  * 10/7/2019 (Mon): Lecture 18 - Miterm 1 review, Circularly-Linked List, Doubly-Linked List [Week7_1 Slides][W7_1] 
  * 10/8/2019 (Tue): Lecture 19 - Diverse Linked-List, Doubly-Linked List [Week7_2 Slides][W7_2] 
+ * 10/9/2019 (Wed): Lecture 20 - Doubly-Linked List, Deque [Week7_3 Slides][W7_3] 
+ * 10/11/2019 (Fri): Lab6 - Symmetric Order (Check zyBooks) (Due: Mon, 10/14/2019 11:59pm)
 
  
 ## Other links
@@ -75,6 +77,7 @@ subtitle: Lectures, related material, labs, and assignments
 [W6_2]:{{site.url}}/lectures/csci2100_week6_2.pdf
 [W7_1]:{{site.url}}/lectures/csci2100_week7_1.pdf
 [W7_2]:{{site.url}}/lectures/csci2100_week7_2.pdf
+[W7_3]:{{site.url}}/lectures/csci2100_week7_3.pdf
 
 [L1]:{{site.url}}/labs/lab1.html
 
