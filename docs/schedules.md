@@ -53,6 +53,8 @@ subtitle: Lectures, related material, labs, and assignments
  * Reading assignment 2 (Due: Fri, 9/20/2019 11:59pm): zyBooks
  * Homework 3 (Due: Wed, 9/25/2019 11:59pm): Check zyBooks Homework3 and submit your solution through zyBooks.
  * Reading assignment 3 (Due: Fri, 9/27/2019 11:59pm): zyBooks
+ * Homework 4 (Due: Tue, 10/15/2019 11:59pm): zyBooks
+ * Reading assignment 4 (Due: Mon, 10/14/2019 11:59pm): zyBooks
  
 ## Labs
 
@@ -61,6 +63,7 @@ subtitle: Lectures, related material, labs, and assignments
  * 9/13/2019 (Fri) Lab3 - Speed (Check zyBooks) (Due: Mon, 9/16/2019 11:59pm)
  * 9/20/2019 (Fri) Lab4 - Salon (Check zyBooks) (Due: Mon, 9/23/2019 11:59pm)
  * 9/27/2019 (Fri) Lab5 - Double (Check zyBooks) (Due: Mon, 9/30/2019 11:59pm)
+ * 10/11/2019 (Fri) Lab6 - Symmetric Order (Check zyBooks) (Due: Mon, 10/14/2019 11:59pm)
 
 [W1]:{{site.url}}/lectures/csci2100_week1.pdf
 [W2_1]:{{site.url}}/lectures/csci2100_week2_1.pdf
