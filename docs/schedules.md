@@ -35,6 +35,7 @@ subtitle: Lectures, related material, labs, and assignments
  * 10/9/2019 (Wed): Lecture 20 - Doubly-Linked List, Deque [Week7_3 Slides][W7_3] 
  * 10/11/2019 (Fri): Lab6 - Symmetric Order (Check zyBooks) (Due: Mon, 10/14/2019 11:59pm)
  * 10/14/2019 (Mon): Lecture 21 - Vector and Iterator [Week8_1 Slides][W8_1] 
+ * 10/14/2019 (Mon): Lecture 22 - Implementing Vector using Array [Week8_2 Slides][W8_2] 
 
  
 ## Other links
@@ -83,6 +84,7 @@ subtitle: Lectures, related material, labs, and assignments
 [W7_2]:{{site.url}}/lectures/csci2100_week7_2.pdf
 [W7_3]:{{site.url}}/lectures/csci2100_week7_3.pdf
 [W8_1]:{{site.url}}/lectures/csci2100_week8_1.pdf
+[W8_2]:{{site.url}}/lectures/csci2100_week8_2.pdf
 
 [L1]:{{site.url}}/labs/lab1.html
 
