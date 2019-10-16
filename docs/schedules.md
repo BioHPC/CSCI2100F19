@@ -35,7 +35,8 @@ subtitle: Lectures, related material, labs, and assignments
  * 10/9/2019 (Wed): Lecture 20 - Doubly-Linked List, Deque [Week7_3 Slides][W7_3] 
  * 10/11/2019 (Fri): Lab6 - Symmetric Order (Check zyBooks) (Due: Mon, 10/14/2019 11:59pm)
  * 10/14/2019 (Mon): Lecture 21 - Vector and Iterator [Week8_1 Slides][W8_1] 
- * 10/14/2019 (Mon): Lecture 22 - Implementing Vector using Array [Week8_2 Slides][W8_2] 
+ * 10/15/2019 (Tue): Lecture 22 - Implementing Vector using Array [Week8_2 Slides][W8_2] 
+ * 10/16/2019 (Wed): Lecture 23 - Sorting Algorithms [Week8_3 Slides][W8_3] 
 
  
 ## Other links
@@ -56,6 +57,7 @@ subtitle: Lectures, related material, labs, and assignments
  * Reading assignment 3 (Due: Fri, 9/27/2019 11:59pm): zyBooks
  * Homework 4 (Due: Tue, 10/15/2019 11:59pm): zyBooks
  * Reading assignment 4 (Due: Mon, 10/14/2019 11:59pm): zyBooks
+ * Reading assignment 5 (Due: Sat, 10/26/2019 11:59pm): zyBooks
  
 ## Labs
 
@@ -65,6 +67,7 @@ subtitle: Lectures, related material, labs, and assignments
  * 9/20/2019 (Fri) Lab4 - Salon (Check zyBooks) (Due: Mon, 9/23/2019 11:59pm)
  * 9/27/2019 (Fri) Lab5 - Double (Check zyBooks) (Due: Mon, 9/30/2019 11:59pm)
  * 10/11/2019 (Fri) Lab6 - Symmetric Order (Check zyBooks) (Due: Mon, 10/14/2019 11:59pm)
+ * 10/18/2019 (Fri) Lab7 - Symmetric Order using Vector (Check zyBooks) (Due: Wed, 10/23/2019 11:59pm)
 
 [W1]:{{site.url}}/lectures/csci2100_week1.pdf
 [W2_1]:{{site.url}}/lectures/csci2100_week2_1.pdf
@@ -85,6 +88,7 @@ subtitle: Lectures, related material, labs, and assignments
 [W7_3]:{{site.url}}/lectures/csci2100_week7_3.pdf
 [W8_1]:{{site.url}}/lectures/csci2100_week8_1.pdf
 [W8_2]:{{site.url}}/lectures/csci2100_week8_2.pdf
+[W8_3]:{{site.url}}/lectures/csci2100_week8_3.pdf
 
 [L1]:{{site.url}}/labs/lab1.html
 
