@@ -37,6 +37,9 @@ subtitle: Lectures, related material, labs, and assignments
  * 10/14/2019 (Mon): Lecture 21 - Vector and Iterator [Week8_1 Slides][W8_1] 
  * 10/15/2019 (Tue): Lecture 22 - Implementing Vector using Array [Week8_2 Slides][W8_2] 
  * 10/16/2019 (Wed): Lecture 23 - Sorting Algorithms [Week8_3 Slides][W8_3] 
+ * 10/18/2019 (Fri): Lab7 - Symmetric Order using Vector (Check zyBooks) (Due: Wed, 10/23/2019 11:59pm)
+ * 10/23/2019 (Wed): Lecture 24 - Sorting Algorithms [Week9_1 Slides][W9_1] 
+ * 10/25/2019 (Fri): Lab8 
 
  
 ## Other links
@@ -89,6 +92,7 @@ subtitle: Lectures, related material, labs, and assignments
 [W8_1]:{{site.url}}/lectures/csci2100_week8_1.pdf
 [W8_2]:{{site.url}}/lectures/csci2100_week8_2.pdf
 [W8_3]:{{site.url}}/lectures/csci2100_week8_3.pdf
+[W9_1]:{{site.url}}/lectures/csci2100_week9_1.pdf
 
 [L1]:{{site.url}}/labs/lab1.html
 
