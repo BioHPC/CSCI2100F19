@@ -44,6 +44,8 @@ subtitle: Lectures, related material, labs, and assignments
  * 10/25/2019 (Fri): Lab8 - Bookshelf (Check zyBooks) (Due: Wed, 10/28/2019 11:59pm)
  * 10/28/2019 (Mon): Lecture 25 - Sorting Algorithms [Week10_1 Slides][W10_1] 
  * 10/29/2019 (Tue): Lecture 26 - Sorting Algorithms [Week10_2 Slides][W10_2] 
+ * 10/30/2019 (Wed): Lecture 27 - How to search in sorted list? [Week10_3 Slides][W10_3] 
+ * 11/1/2019 (Fri): Lab9 - Phone List (Check zyBooks) (Due: Mon, 11/4/2019 11:59pm)
 
  
 ## Other links
@@ -76,6 +78,7 @@ subtitle: Lectures, related material, labs, and assignments
  * 10/11/2019 (Fri) Lab6 - Symmetric Order (Check zyBooks) (Due: Mon, 10/14/2019 11:59pm)
  * 10/18/2019 (Fri) Lab7 - Symmetric Order using Vector (Check zyBooks) (Due: Wed, 10/23/2019 11:59pm)
  * 10/25/2019 (Fri): Lab8 - Bookshelf (Check zyBooks) (Due: Wed, 10/28/2019 11:59pm)
+ * 11/1/2019 (Fri): Lab9 - Phone List (Check zyBooks) (Due: Mon, 11/4/2019 11:59pm)
 
 [W1]:{{site.url}}/lectures/csci2100_week1.pdf
 [W2_1]:{{site.url}}/lectures/csci2100_week2_1.pdf
