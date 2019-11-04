@@ -101,6 +101,7 @@ subtitle: Lectures, related material, labs, and assignments
 [W8_1]:{{site.url}}/lectures/csci2100_week8_1.pdf
 [W8_2]:{{site.url}}/lectures/csci2100_week8_2.pdf
 [W8_3]:{{site.url}}/lectures/csci2100_week8_3.pdf
+[W9_1]:{{site.url}}/lectures/csci2100_week9_1.pdf
 [W10_1]:{{site.url}}/lectures/csci2100_week10_1.pdf
 [W10_2]:{{site.url}}/lectures/csci2100_week10_2.pdf
 [W10_3]:{{site.url}}/lectures/csci2100_week10_3.pdf
