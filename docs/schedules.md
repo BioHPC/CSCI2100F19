@@ -46,6 +46,7 @@ subtitle: Lectures, related material, labs, and assignments
  * 10/29/2019 (Tue): Lecture 26 - Sorting Algorithms [Week10_2 Slides][W10_2] 
  * 10/30/2019 (Wed): Lecture 27 - How to search in sorted list? [Week10_3 Slides][W10_3] 
  * 11/1/2019 (Fri): Lab9 - Phone List (Check zyBooks) (Due: Mon, 11/4/2019 11:59pm)
+ * 11/4/2019 (Mon): Lecture 28 - General Tree [Week11_1 Slides][W11_1] 
 
  
 ## Other links
@@ -103,6 +104,7 @@ subtitle: Lectures, related material, labs, and assignments
 [W10_1]:{{site.url}}/lectures/csci2100_week10_1.pdf
 [W10_2]:{{site.url}}/lectures/csci2100_week10_2.pdf
 [W10_3]:{{site.url}}/lectures/csci2100_week10_3.pdf
+[W11_1]:{{site.url}}/lectures/csci2100_week11_1.pdf
 
 [L1]:{{site.url}}/labs/lab1.html
 
