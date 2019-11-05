@@ -70,6 +70,8 @@ subtitle: Lectures, related material, labs, and assignments
  * Homework 4 (Due: Tue, 10/15/2019 11:59pm): zyBooks
  * Reading assignment 4 (Due: Mon, 10/14/2019 11:59pm): zyBooks
  * Reading assignment 5 (Due: Sat, 10/26/2019 11:59pm): zyBooks
+ * Homework 5 (Due: Sun, 11/3/2019 11:59pm): zyBooks
+ * Reading assignment 6 (Due: Thu, 11/7/2019 11:59pm): zyBooks
  
 ## Labs
 
