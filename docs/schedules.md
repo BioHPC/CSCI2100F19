@@ -47,7 +47,7 @@ subtitle: Lectures, related material, labs, and assignments
  * 11/4/2019 (Mon): Lecture 28 - General Tree [Week11_1 Slides][W11_1] 
  * 11/5/2019 (Tue): Lecture 29 - Binary Search Tree [Week11_2 Slides][W11_2] 
  * 11/6/2019 (Wed): Lecture 30 - Reading Day for Midterm 2
- * 11/8/2019 (Fri):  <span style="color:red">Midterm 2</span>
+ * 11/8/2019 (Fri): <span style="color:red">Midterm 2</span>
  
 ## Other links
 
@@ -120,5 +120,3 @@ subtitle: Lectures, related material, labs, and assignments
 [O3]:https://ryanstutorials.net/linuxtutorial/
 [O4]:https://linuxacademy.com/blog/linux/ssh-and-scp-howto-tips-tricks/
 [O5]:https://scotch.io/tutorials/getting-started-with-vim-an-interactive-guide
-
-
