@@ -32,8 +32,6 @@ subtitle: Lectures, related material, labs, and assignments
  * 10/4/2019 (Fri): <span style="color:red">Midterm 1</span>
  * 10/7/2019 (Mon): Lecture 18 - Miterm 1 review, Circularly-Linked List, Doubly-Linked List [Week7_1 Slides][W7_1] 
  * 10/8/2019 (Tue): Lecture 19 - Diverse Linked-List, Doubly-Linked List [Week7_2 Slides][W7_2] 
- * 10/9/2019 (Wed): Lecture 20 - Doubly-Linked List, Deque [Week7_3 Slides][W7_3] 
- * 10/11/2019 (Fri): Lab6 - Symmetric Order (Check zyBooks) (Due: Mon, 10/14/2019 11:59pm)
  * 10/14/2019 (Mon): Lecture 21 - Vector and Iterator [Week8_1 Slides][W8_1] 
  * 10/15/2019 (Tue): Lecture 22 - Implementing Vector using Array [Week8_2 Slides][W8_2] 
  * 10/16/2019 (Wed): Lecture 23 - Sorting Algorithms [Week8_3 Slides][W8_3] 
