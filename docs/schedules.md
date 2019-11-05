@@ -47,7 +47,9 @@ subtitle: Lectures, related material, labs, and assignments
  * 10/30/2019 (Wed): Lecture 27 - How to search in sorted list? [Week10_3 Slides][W10_3] 
  * 11/1/2019 (Fri): Lab9 - Phone List (Check zyBooks) (Due: Mon, 11/4/2019 11:59pm)
  * 11/4/2019 (Mon): Lecture 28 - General Tree [Week11_1 Slides][W11_1] 
-
+ * 11/5/2019 (Tue): Lecture 29 - Binary Search Tree [Week11_2 Slides][W11_2] 
+ * 11/6/2019 (Wed): Lecture 30 - Reading Day for Midterm 2
+ * 11/8/2019 (Fri):  <span style="color:red">Midterm 2</span>
  
 ## Other links
 
@@ -106,6 +108,7 @@ subtitle: Lectures, related material, labs, and assignments
 [W10_2]:{{site.url}}/lectures/csci2100_week10_2.pdf
 [W10_3]:{{site.url}}/lectures/csci2100_week10_3.pdf
 [W11_1]:{{site.url}}/lectures/csci2100_week11_1.pdf
+[W11_2]:{{site.url}}/lectures/csci2100_week11_2.pdf
 
 [L1]:{{site.url}}/labs/lab1.html
 
