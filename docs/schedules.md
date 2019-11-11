@@ -48,6 +48,7 @@ subtitle: Lectures, related material, labs, and assignments
  * 11/5/2019 (Tue): Lecture 29 - Binary Search Tree [Week11_2 Slides][W11_2] 
  * 11/6/2019 (Wed): Lecture 30 - Reading Day for Midterm 2
  * 11/8/2019 (Fri): <span style="color:red">Midterm 2</span>
+ * 11/11/2019 (Mon): <span style="color:red">Midterm 2 Review</span>
  
 ## Other links
 
