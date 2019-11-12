@@ -49,6 +49,7 @@ subtitle: Lectures, related material, labs, and assignments
  * 11/6/2019 (Wed): Lecture 30 - Reading Day for Midterm 2
  * 11/8/2019 (Fri): <span style="color:red">Midterm 2</span>
  * 11/11/2019 (Mon): Midterm 2 Review
+ * 11/12/2019 (Tue): Lecture 31 - Binary Tree Implementation [Week12_1 Slides][W12_1] 
  
 ## Other links
 
@@ -71,6 +72,7 @@ subtitle: Lectures, related material, labs, and assignments
  * Reading assignment 5 (Due: Sat, 10/26/2019 11:59pm): zyBooks
  * Homework 5 (Due: Sun, 11/3/2019 11:59pm): zyBooks
  * Reading assignment 6 (Due: Thu, 11/7/2019 11:59pm): zyBooks
+ * Reading assignment 7 (Due: Mon, 11/18/2019 11:59pm): zyBooks
  
 ## Labs
 
@@ -110,6 +112,7 @@ subtitle: Lectures, related material, labs, and assignments
 [W10_3]:{{site.url}}/lectures/csci2100_week10_3.pdf
 [W11_1]:{{site.url}}/lectures/csci2100_week11_1.pdf
 [W11_2]:{{site.url}}/lectures/csci2100_week11_2.pdf
+[W12_1]:{{site.url}}/lectures/csci2100_week12_1.pdf
 
 [L1]:{{site.url}}/labs/lab1.html
 
