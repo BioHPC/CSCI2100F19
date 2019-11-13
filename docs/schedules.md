@@ -74,7 +74,7 @@ subtitle: Lectures, related material, labs, and assignments
  * Homework 5 (Due: Sun, 11/3/2019 11:59pm): zyBooks
  * Reading assignment 6 (Due: Thu, 11/7/2019 11:59pm): zyBooks
  * Reading assignment 7 (Due: Mon, 11/18/2019 11:59pm): zyBooks
- * Homework 3 (Due: Tue, 11/19/2019 11:59am): [Binary Tree Implementation][H6]
+ * Homework 6 (Due: Tue, 11/19/2019 11:59am): [Binary Tree Implementation][H6]
  
 ## Labs
 
