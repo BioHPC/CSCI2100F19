@@ -50,6 +50,7 @@ subtitle: Lectures, related material, labs, and assignments
  * 11/8/2019 (Fri): <span style="color:red">Midterm 2</span>
  * 11/11/2019 (Mon): Midterm 2 Review
  * 11/12/2019 (Tue): Lecture 31 - Binary Tree Implementation [Week12_1 Slides][W12_1] 
+ * 11/13/2019 (Wed): Lecture 32 - Binary Tree Implementation [Week12_2 Slides][W12_2] 
  
 ## Other links
 
@@ -113,6 +114,7 @@ subtitle: Lectures, related material, labs, and assignments
 [W11_1]:{{site.url}}/lectures/csci2100_week11_1.pdf
 [W11_2]:{{site.url}}/lectures/csci2100_week11_2.pdf
 [W12_1]:{{site.url}}/lectures/csci2100_week12_1.pdf
+[W12_2]:{{site.url}}/lectures/csci2100_week12_2.pdf
 
 [L1]:{{site.url}}/labs/lab1.html
 
