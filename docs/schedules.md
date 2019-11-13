@@ -121,7 +121,7 @@ subtitle: Lectures, related material, labs, and assignments
 
 [H2]:{{site.url}}/homework/hw2.html
 [S2]:{{site.url}}/homework/hw2_sol.html
-[H6]:{{site.url}}/homework/hw6.html
+[H6]:{{site.url}}/homework/hw6.md
 
 [O1]:{{site.url}}/lectures/python2cpp.pdf
 [O2]:https://zybooks.zendesk.com/hc/en-us/articles/360008562913-Students-Getting-started
