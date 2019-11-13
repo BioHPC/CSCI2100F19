@@ -13,7 +13,7 @@ that we have learned in our lectures (Check the slides of Week12).
 
 Tue, Nov 19 2019, 11:59 PM
 
-## Hint
+### Hint
 In the class header, I declated the public member functions as below:
 ```
 void expandExternal(const Position& p);             // expand external Node
