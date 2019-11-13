@@ -16,8 +16,8 @@ Tue, Nov 19 2019, 11:59 PM
 ## Hint
 In the class header, I declated the public member functions as below:
 ```
-    void expandExternal(const Position& p);             // expand external Node
-    Position removeAboveExternal(const Position& p);    // remove p and parent
+void expandExternal(const Position& p);             // expand external Node
+Position removeAboveExternal(const Position& p);    // remove p and parent
 ```
 
 Then, the removeAboveExternal function can be started as below in the class file:
