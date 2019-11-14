@@ -51,6 +51,7 @@ subtitle: Lectures, related material, labs, and assignments
  * 11/11/2019 (Mon): Midterm 2 Review
  * 11/12/2019 (Tue): Lecture 31 - Binary Tree Implementation [Week12_1 Slides][W12_1] 
  * 11/13/2019 (Wed): Lecture 32 - Binary Tree Implementation [Week12_2 Slides][W12_2] 
+ * 11/15/2019 (Thu): Lab10 - Tree Grafting (part 1) (Check zyBooks) (Due: Mon, 11/18/2019 11:59pm)
  
 ## Other links
 
@@ -87,6 +88,7 @@ subtitle: Lectures, related material, labs, and assignments
  * 10/18/2019 (Fri) Lab7 - Symmetric Order using Vector (Check zyBooks) (Due: Wed, 10/23/2019 11:59pm)
  * 10/25/2019 (Fri): Lab8 - Bookshelf (Check zyBooks) (Due: Wed, 10/28/2019 11:59pm)
  * 11/1/2019 (Fri): Lab9 - Phone List (Check zyBooks) (Due: Mon, 11/4/2019 11:59pm)
+ * 11/15/2019 (Thu): Lab10 - Tree Grafting (part 1) (Check zyBooks) (Due: Mon, 11/18/2019 11:59pm)
 
 [W1]:{{site.url}}/lectures/csci2100_week1.pdf
 [W2_1]:{{site.url}}/lectures/csci2100_week2_1.pdf
