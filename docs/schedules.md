@@ -51,7 +51,8 @@ subtitle: Lectures, related material, labs, and assignments
  * 11/11/2019 (Mon): Midterm 2 Review
  * 11/12/2019 (Tue): Lecture 31 - Binary Tree Implementation [Week12_1 Slides][W12_1] 
  * 11/13/2019 (Wed): Lecture 32 - Binary Tree Implementation [Week12_2 Slides][W12_2] 
- * 11/15/2019 (Thu): Lab10 - Tree Grafting (part 1) (Check zyBooks) (Due: Mon, 11/18/2019 11:59pm)
+ * 11/15/2019 (Fri): Lab10 - Tree Grafting (part 1) (Check zyBooks) (Due: Mon, 11/18/2019 11:59pm)
+ * 11/18/2019 (Mon): Lecture 33 - Balanced Tree [Week13_1 Slides][W13_1] 
  
 ## Other links
 
@@ -118,6 +119,7 @@ subtitle: Lectures, related material, labs, and assignments
 [W11_2]:{{site.url}}/lectures/csci2100_week11_2.pdf
 [W12_1]:{{site.url}}/lectures/csci2100_week12_1.pdf
 [W12_2]:{{site.url}}/lectures/csci2100_week12_2.pdf
+[W13_1]:{{site.url}}/lectures/csci2100_week13_1.pdf
 
 [L1]:{{site.url}}/labs/lab1.html
 
