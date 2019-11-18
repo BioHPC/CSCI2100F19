@@ -53,6 +53,18 @@ subtitle: Lectures, related material, labs, and assignments
  * 11/13/2019 (Wed): Lecture 32 - Binary Tree Implementation [Week12_2 Slides][W12_2] 
  * 11/15/2019 (Fri): Lab10 - Tree Grafting (part 1) (Check zyBooks) (Due: Mon, 11/18/2019 11:59pm)
  * 11/18/2019 (Mon): Lecture 33 - Balanced Tree [Week13_1 Slides][W13_1] 
+ * 11/19/2019 (Tue): Lecture 34 - Balanced Tree [Week13_2 Slides][W13_2] 
+ * 11/20/2019 (Wed): Lecture 35 - Balanced Tree [Week13_3 Slides][W13_3] 
+ * 11/22/2019 (Fri): Lab11 - Tree Grafting (part 2) (Check zyBooks) (Due: Mon, 11/25/2019 11:59pm)
+ * 11/25/2019 (Mon): Lecture 36 - Heap and Heaptify [Week14_1 Slides][W14_1] 
+ * 11/26/2019 (Tue): Lecture 37 - Priority Queue [Week14_2 Slides][W14_2] 
+ * 11/27/2019 (Wed): <span style="color:red">Thanksgiving Break (No Class)</span>
+ * 11/29/2019 (Fri): <span style="color:red">Thanksgiving Break (No Class)</span>
+ * 12/2/2019 (Mon): Lecture 38 - Set and Map [Week15_1 Slides][W15_1] 
+ * 12/3/2019 (Tue): Lecture 39 - Hash [Week15_2 Slides][W15_2] 
+ * 12/4/2019 (Wed): Lecture 40 - Graph [Week15_3 Slides][W15_3] 
+ * 12/6/2019 (Fri): Lecture 41 - Recap of Data Structures (Last year exam questions)
+ * 12/9/2019 (Mon): <span style="color:red">Final Exam</span>
  
 ## Other links
 
@@ -76,7 +88,8 @@ subtitle: Lectures, related material, labs, and assignments
  * Homework 5 (Due: Sun, 11/3/2019 11:59pm): zyBooks
  * Reading assignment 6 (Due: Thu, 11/7/2019 11:59pm): zyBooks
  * Reading assignment 7 (Due: Mon, 11/18/2019 11:59pm): zyBooks
- * Homework 6 (Due: Tue, 11/19/2019 11:59am): [Binary Tree Implementation][H6]
+ * Homework 6 (Due: Tue, 11/19/2019 11:59pm): [Binary Tree Implementation][H6]
+ * Reading assignment 8 (Due: Mon, 11/25/2019 11:59pm): zyBooks
  
 ## Labs
 
@@ -90,6 +103,7 @@ subtitle: Lectures, related material, labs, and assignments
  * 10/25/2019 (Fri): Lab8 - Bookshelf (Check zyBooks) (Due: Wed, 10/28/2019 11:59pm)
  * 11/1/2019 (Fri): Lab9 - Phone List (Check zyBooks) (Due: Mon, 11/4/2019 11:59pm)
  * 11/15/2019 (Thu): Lab10 - Tree Grafting (part 1) (Check zyBooks) (Due: Mon, 11/18/2019 11:59pm)
+ * 11/22/2019 (Fri): Lab11 - Tree Grafting (part 2) (Check zyBooks) (Due: Mon, 11/25/2019 11:59pm)
 
 [W1]:{{site.url}}/lectures/csci2100_week1.pdf
 [W2_1]:{{site.url}}/lectures/csci2100_week2_1.pdf
@@ -120,6 +134,13 @@ subtitle: Lectures, related material, labs, and assignments
 [W12_1]:{{site.url}}/lectures/csci2100_week12_1.pdf
 [W12_2]:{{site.url}}/lectures/csci2100_week12_2.pdf
 [W13_1]:{{site.url}}/lectures/csci2100_week13_1.pdf
+[W13_2]:{{site.url}}/lectures/csci2100_week13_2.pdf
+[W13_3]:{{site.url}}/lectures/csci2100_week13_3.pdf
+[W14_1]:{{site.url}}/lectures/csci2100_week14_1.pdf
+[W14_2]:{{site.url}}/lectures/csci2100_week14_2.pdf
+[W15_1]:{{site.url}}/lectures/csci2100_week15_1.pdf
+[W15_2]:{{site.url}}/lectures/csci2100_week15_2.pdf
+[W15_3]:{{site.url}}/lectures/csci2100_week15_3.pdf
 
 [L1]:{{site.url}}/labs/lab1.html
 
