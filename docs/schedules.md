@@ -56,8 +56,8 @@ subtitle: Lectures, related material, labs, and assignments
  * 11/19/2019 (Tue): Lecture 34 - Balanced Tree [Week13_2 Slides][W13_2] 
  * 11/20/2019 (Wed): Lecture 35 - Balanced Tree [Week13_3 Slides][W13_3] 
  * 11/22/2019 (Fri): Lab11 - Tree Grafting (part 2) (Check zyBooks) (Due: Mon, 11/25/2019 11:59pm)
- * 11/25/2019 (Mon): Lecture 36 - Heap and Heaptify [Week14_1 Slides][W14_1] 
- * 11/26/2019 (Tue): Lecture 37 - Priority Queue [Week14_2 Slides][W14_2] 
+ * 11/25/2019 (Mon): Lecture 36 - Priority Queue and Heap [Week14_1 Slides][W14_1] 
+ * 11/26/2019 (Tue): Lecture 37 - Heap and Heaptify [Week14_2 Slides][W14_2] 
  * 11/27/2019 (Wed): <span style="color:red">Thanksgiving Break (No Class)</span>
  * 11/29/2019 (Fri): <span style="color:red">Thanksgiving Break (No Class)</span>
  * 12/2/2019 (Mon): Lecture 38 - Set and Map [Week15_1 Slides][W15_1] 
